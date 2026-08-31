@@ -25,3 +25,10 @@ Vehicle theft is more common in urban areas, which is expected given the higher 
 Antioquia stands out as the department with the highest number of theft cases, not only involving vehicles but also theft from persons, highlighting it as one of the main areas of concern in the dataset.
 
 During 2025, Cauca recorded the highest number of kidnapping cases involving ransom demands in contrast with Norte de Santander. During the same year, domestic violence increased in Antioquia, with the majority of reported cases occurring in urban areas. In contrast, Risaralda was among the departments with the lowest number of reported domestic violence cases in the datas
+
+
+
+
+
+
+
