@@ -15,3 +15,8 @@ https://www.datos.gov.co/
 The data was relatively clean, and no null values were found. However, some information was not reported and it was saved as "not reported". This is something we cannot simply remove or extrapolate, as doing so could introduce inaccurate assumptions.
 Instead, the missing information will help us identify which data has not been collected and where there may be gaps in the data collection process.
 # Exploratory Data Analysis
+According to the data, theft from persons and domestic violence are the most common types of crime.
+Over the past 22 years, crime has been highly concentrated in Antioquia and Valle del Cauca, which consistently report some of the highest numbers of cases.
+Regarding homicides, firearms and bladed weapons are the most commonly used methods. Overall, urban areas have been the most affected, particularly due to contract killings, in which the majority of victims are men.
+However, in 2025, departments such as Cauca and Norte de Santander experienced an increase in homicide victims, increasing the pattern on rural areas.
+From a seasonal perspective, the last quarters of the year consistently show the highest number of homicide victims, suggesting a concentration of cases toward the end of the year.
