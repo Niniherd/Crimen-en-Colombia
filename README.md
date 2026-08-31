@@ -27,6 +27,7 @@ Antioquia stands out as the department with the highest number of theft cases, n
 During 2025, Cauca recorded the highest number of kidnapping cases involving ransom demands in contrast with Norte de Santander. During the same year, domestic violence increased in Antioquia, with the majority of reported cases occurring in urban areas. In contrast, Risaralda was among the departments with the lowest number of reported domestic violence cases in the datas
 
 
+https://github.com/user-attachments/assets/8ed725ae-209b-4855-85f1-26fd9d846b8f
 
 
 
